@@ -30,19 +30,19 @@ const Skills = () => {
     {
       title: "Frontend Development",
       icon: Code2,
-      skills: ["HTML", "CSS", "JavaScript", "React.js", "Tailwind CSS"],
+      skills: ["HTML", "CSS", "JavaScript", "React.js"],
       color: "neon-cyan"
     },
     {
       title: "Backend Development", 
       icon: Database,
-      skills: ["Node.js", "Express.js", "MongoDB", "SQL", "REST APIs"],
+      skills: ["Node.js", "Express.js", "MongoDB"],
       color: "neon-purple"
     },
     {
       title: "Programming Languages",
       icon: Brain,
-      skills: ["JavaScript", "Python", "Java", "C++", "TypeScript"],
+      skills: ["JavaScript", "Python", "Java", "C++"],
       color: "neon-green"
     }
   ];
