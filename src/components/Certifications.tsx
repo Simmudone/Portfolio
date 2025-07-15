@@ -13,7 +13,7 @@ const Certifications = () => {
       description: "Comprehensive full-stack development training covering modern web technologies and industry best practices.",
       skills: ["React", "Node.js", "Database Management", "DevOps"],
       color: "neon-cyan",
-      link: "https://drive.google.com/file/d/1ElttIqb5ms5WHo4zANHqrKgqTb2VyRs4/view?usp=drive_link"
+      link: "https://drive.google.com/file/d/1ElttIqb5ms5WHo4zANHqrKgqTb2VyRs4/view"
     },
     {
       title: "AI Associate Certification",
@@ -24,7 +24,7 @@ const Certifications = () => {
       description: "Advanced certification in artificial intelligence applications and Salesforce AI platform integration.",
       skills: ["AI/ML", "Salesforce Platform", "Data Analysis", "Automation"],
       color: "neon-purple",
-      link: "https://drive.google.com/file/d/1ErMYU0DG4FuNeMb0JcX8OSJtheQCP7z6/view?usp=drive_link"
+      link: "https://drive.google.com/file/d/1ErMYU0DG4FuNeMb0JcX8OSJtheQCP7z6/view?usp=sharing"
     },
     {
       title: "Java Programming Fundamentals",
@@ -35,7 +35,7 @@ const Certifications = () => {
       description: "Comprehensive Java programming course covering OOP principles, data structures, and software design patterns.",
       skills: ["Java", "OOP", "Data Structures", "Algorithm Design"],
       color: "neon-green",
-      link: "https://drive.google.com/file/d/1vwbzPkHH3h6gsxzcIVqxf8YNhb31-Fif/view?usp=drive_link"
+      link: "https://drive.google.com/file/d/1vwbzPkHH3h6gsxzcIVqxf8YNhb31-Fif/view?usp=sharing"
     },
     {
       title: "Python Basics for Data Science",
@@ -46,7 +46,7 @@ const Certifications = () => {
       description: "Foundation course in Python programming with focus on data science applications and libraries.",
       skills: ["Python", "Data Science", "Pandas", "NumPy"],
       color: "neon-cyan",
-      link: "https://drive.google.com/file/d/1Cu4XXUannga7uOTHjAN0rYOhuawx1Hfw/view?usp=drive_link"
+      link: "https://drive.google.com/file/d/1Cu4XXUannga7uOTHjAN0rYOhuawx1Hfw/view?usp=sharing"
     }
   ];
 
@@ -253,7 +253,7 @@ const Certifications = () => {
             <div className="text-sm text-muted-foreground">Hours Learning</div>
           </div>
           <div className="text-center">
-            <div className="text-3xl font-bold text-gradient mb-2">2024</div>
+            <div className="text-3xl font-bold text-gradient mb-2">2025</div>
             <div className="text-sm text-muted-foreground">Active Year</div>
           </div>
         </div>

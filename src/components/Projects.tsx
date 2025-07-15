@@ -15,7 +15,7 @@ const Projects = () => {
         "User-friendly interface for testing"
       ],
       github: "https://github.com/Simmudone/Spam-Detection-Using-AI",
-      demo: "https://drive.google.com/file/d/1pSXCIg2jyarvc01XKmufPiZNukrP_HTf/view?usp=drive_link",
+      demo: "https://drive.google.com/file/d/1PU8J2Dx5EhWlwJsBi1iYsNiOWeN-pl4c/view?usp=sharing",
       icon: Zap,
       gradient: "from-neon-cyan to-neon-purple"
     },
@@ -30,7 +30,7 @@ const Projects = () => {
         "Responsive design for all devices"
       ],
       github: "https://github.com/Simmudone/Flight-Finder",
-      demo: "https://drive.google.com/file/d/1LWb70moPd83_4bXbd0INU9Juwiix--12/view?usp=drive_link",
+      demo: "https://drive.google.com/file/d/1APdEIQZwsXKrWIWaozh0msCfRB_9IbKP/view?usp=sharing",
       icon: Plane,
       gradient: "from-neon-purple to-neon-green"
     }
